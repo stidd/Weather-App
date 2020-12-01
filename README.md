@@ -1,0 +1,1 @@
+A Weather App allowing the user to search by city name or zipcode. The app uses the openweather API and outputs weather data for the user.
