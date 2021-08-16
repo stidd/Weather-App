@@ -1,6 +1,6 @@
 // 
-// api key
-const appId = '9ecad6552d0a1f281a5c69633f0d9505';
+// example API Key
+const appId = '**********';
 const units = 'imperial';
 let searchMethod;
 
